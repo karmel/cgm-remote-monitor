@@ -69,7 +69,7 @@
     },
     "CUSTOM_TITLE": {
       "description": "Customize the name of the website, usually the name of T1.",
-      "value": "",
+      "value": "Karmelscout",
       "required": false
     },
     "THEME": {
@@ -79,7 +79,7 @@
     },
     "SHOW_RAWBG": {
       "description": "Possible values always, never or noise",
-      "value": "",
+      "value": "noise",
       "required": false
     },
     "BRIDGE_USER_NAME": {
@@ -100,11 +100,6 @@
     "NIGHT_MODE": {
       "description": "Browser defaults to night mode valid settings are on or off",
       "value": "off",
-      "required": false 
-    },
-    "SHOW_RAWBG": {
-      "description": "Browser default raw display mode vaild settings are always never or noise",
-      "value": "never",
       "required": false 
     },
     "THEME": {
