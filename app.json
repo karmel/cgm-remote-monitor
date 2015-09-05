@@ -114,27 +114,27 @@
     },
     "ALARM_URGENT_HIGH": {
       "description": "Browser default urgent high alarm enabled vaild settings are on or off",
-      "value": "on",
+      "value": "off",
       "required": false 
     },
     "ALARM_HIGH": {
       "description": "Browser default high alarm enabled vaild settings are on or off",
-      "value": "on",
+      "value": "off",
       "required": false
     },
     "ALARM_LOW": {
       "description": "Browser default low alarm enabled vaild settings are on or off",
-      "value": "on",
+      "value": "off",
       "required": false
     },
     "ALARM_URGENT_LOW": {
       "description": "Browser default urgent low alarm enabled vaild settings are on or off",
-      "value": "on",
+      "value": "off",
       "required": false
     },
     "ALARM_TIMEAGO_WARN": {
       "description": "Browser default warn after time of last data exceeds ALARM_TIMEAGO_WARN_MINS alarm enabled vaild settings are on or off",
-      "value": "on",
+      "value": "off",
       "required": false
     },
     "ALARM_TIMEAGO_WARN_MINS": {
@@ -144,7 +144,7 @@
     },
     "ALARM_TIMEAGO_URGENT": {
       "description": "Browser default urgent warning after time of last data exceeds ALARM_TIMEAGO_URGENT_MINS alarm enabled vaild settings are on or off",
-      "value": "on",
+      "value": "off",
       "required": false
     },
     "ALARM_TIMEAGO_URGENT_MINS": {
